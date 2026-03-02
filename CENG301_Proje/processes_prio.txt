@@ -1,0 +1,6 @@
+# PID, Varış, Burst, Öncelik
+P1,0,8,4
+P2,1,4,1   # En Yüksek Öncelik
+P3,2,9,3
+P4,3,5,2   # İkinci En Yüksek Öncelik
+P5,4,2,4

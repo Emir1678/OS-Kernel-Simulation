@@ -1,0 +1,7 @@
+# processes.txt
+# pid arrival_time burst_time priority
+P1,0,8,0
+P2,1,4,0
+P3,2,9,0
+P4,3,5,0
+P5,4,2,0

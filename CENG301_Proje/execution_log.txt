@@ -1,0 +1,26 @@
+==============================================
+📝 EXECUTION LOG (Detailed Timeline)
+==============================================
+Time   | PID   | Event
+----------------------------------------------
+0      | P1    | ARRIVED (Kuyruğa eklendi)
+0      | P1    | STARTED (Kalan süre: 8)
+2      | P1    | PREEMPTED (Kalan süre: 6)
+2      | P2    | STARTED (Kalan süre: 4)
+4      | P2    | PREEMPTED (Kalan süre: 2)
+4      | P3    | STARTED (Kalan süre: 9)
+6      | P3    | PREEMPTED (Kalan süre: 7)
+8      | P1    | PREEMPTED (Kalan süre: 4)
+8      | P4    | STARTED (Kalan süre: 5)
+10     | P4    | PREEMPTED (Kalan süre: 3)
+10     | P5    | STARTED (Kalan süre: 2)
+12     | P5    | COMPLETED (Toplam süre: 2)
+14     | P2    | COMPLETED (Toplam süre: 4)
+16     | P3    | PREEMPTED (Kalan süre: 5)
+18     | P1    | PREEMPTED (Kalan süre: 2)
+20     | P4    | PREEMPTED (Kalan süre: 1)
+22     | P3    | PREEMPTED (Kalan süre: 3)
+24     | P1    | COMPLETED (Toplam süre: 8)
+25     | P4    | COMPLETED (Toplam süre: 5)
+27     | P3    | PREEMPTED (Kalan süre: 1)
+28     | P3    | COMPLETED (Toplam süre: 9)
